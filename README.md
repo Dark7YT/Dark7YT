@@ -98,6 +98,7 @@ This portfolio aims to showcase my projects, knowledge, and approaches to web an
 
 ## 📜 Certifications & Activities
 
+- **Scrum Master Certification** - Coursera (Mar 2025)
 - **International Congress: Artificial Intelligence applied to Cybersecurity** - UPC (Nov 2024)
 - **MongoDB Courses: Introduction to MongoDB & MongoDB Transactions** (Oct 2023)
 - **Scrum Fundamentals Certified (SFC)** - Scrum Study (May 2023)
